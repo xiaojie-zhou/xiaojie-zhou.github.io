@@ -1,1 +1,0 @@
-# AnotherSeagull.github.io
