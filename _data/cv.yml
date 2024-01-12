@@ -2,96 +2,53 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Xiaojie Zhou
     - name: Languages
-      value: English, German
+      value: English, Mandarin Chinese
+
+- title: Technical Skills
+  type: time_table
+  contents:
+    - title: Programming Languages
+      description: C/C++, Java, Python, SQL, Visual Basic, x86 Assembly, JavaScript (TypeScript, React, Angular), R
+    - title: Operating Systems
+      description: macOS, Windows (11, 10, 7), Linux
+    - title: Concepts
+      description: Network protocols (TCP/IP, DHCP, DNS, etc.), Data Structures, Relational Database, Web Development, Search Engines, Machine Learning, Dynamic Programming, OS
+    - title: Software
+      description: Microsoft Office, MySQL, Acrobat, Photoshop, Final Cut Pro, JetBrains, Visual Studio Code, GitHub, VMware, R studio, PyTorch
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Computer Science
+      institution: University of California, Los Angeles
+      year: IP 2025
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+    - title: Bachelor of Science in Computer Science
+      institution: University of California, Irvine
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Specialization in Information
+        - Dean's Honor List
+        - GPA 3.71/4.00
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: IT Intern
+      institution: Intco Medical Industries Inc.
+      location: Ontario, CA, USA
+      year: 2020-2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - title: Developed Scripts to Manage Account Payable
+          contents: reconciled tens of thousands of statements and invoices and made payments to various vendors without mistakes.
+        - Set up a digital time card system, updated the payroll system, and integrated with the accounting system.
+        - Troubleshoot tech-related issues of varying complexity through deskside support.
+        - Set up new accounts for new employees and deployed desktops and office equipment.
