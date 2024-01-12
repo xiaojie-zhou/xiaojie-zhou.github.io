@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - xiaojie-zhou
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - justinlaicy926/CS174A-Final-Project
+  - xiaojie-zhou/a3-spotify-browser
