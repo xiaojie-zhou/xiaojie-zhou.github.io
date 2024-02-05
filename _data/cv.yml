@@ -9,14 +9,10 @@
 - title: Technical Skills
   type: time_table
   contents:
-    - title: Programming Languages
-      description: C/C++, Java, Python, SQL, Visual Basic, x86 Assembly, JavaScript (TypeScript, React, Angular), R
-    - title: Operating Systems
-      description: macOS, Windows (11, 10, 7), Linux
+    - title: Skills
+      description: Java, MySQL, JavaScript, TypeScript, React.js, AngularJS, Linux/Unix, Data Structures & Algorithms, React Native, Git, HTML/CSS, Web Development, Python, Excel/Numbers/Sheets, Agile, AWS, Bash, C/C++, Computer Networking, Figma, Firebase, Ionic, jQuery, Jupyter, Kotlin, Maven, MongoDB, Natural Language Processing (NLP), Node.js, NumPy, OpenGL, Pandas, PowerPoint/Keynote/Slides, PowerShell, Product Management, Python NLTK, Quickbooks, R, RDBMS, REST APIs
     - title: Concepts
       description: Network protocols (TCP/IP, DHCP, DNS, etc.), Data Structures, Relational Database, Web Development, Search Engines, Machine Learning, Dynamic Programming, OS
-    - title: Software
-      description: Microsoft Office, MySQL, Acrobat, Photoshop, Final Cut Pro, JetBrains, Visual Studio Code, GitHub, VMware, R studio, PyTorch
 
 - title: Education
   type: time_table
