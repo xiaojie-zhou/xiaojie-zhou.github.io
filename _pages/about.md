@@ -17,8 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Master of Science student in Computer Science at the [University of California, Los Angeles (UCLA)](https://www.ucla.edu).
+As a computer science student at [UCLA](https://www.ucla.edu), I’m pursuing my master's degree after graduating from [UC Irvine](https://ics.uci.edu) with a bachelor's degree.
 
-Previously, I earned my Bachelor of Science degree in Computer Science with a specialization in Information from [Donald Bren School of Information & Computer Sciences](https://ics.uci.edu) at [University of California, Irvine (UCI)](https://uci.edu).
-
-I enjoyed working with a diverse and collaborative team, and learned a lot from the mentors and managers. I am eager to apply my skills and knowledge to new challenges and opportunities, and contribute to the success of the organization.
+My passion would be to apply my technical skills solving real-world problems to improve efficiency. I’ve enjoyed working with a diverse and collaborative team and learnt a great deal from my mentors and managers. I’m eager to showcase my skills and knowledge facing new challenges, opportunities and contribute to the success of the organization.
