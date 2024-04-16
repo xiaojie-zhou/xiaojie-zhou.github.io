@@ -10,7 +10,7 @@
   type: time_table
   contents:
     - title: Skills
-      description: Java, MySQL, JavaScript, TypeScript, React.js, AngularJS, Linux/Unix, Data Structures & Algorithms, React Native, Git, HTML/CSS, Web Development, Python, Excel/Numbers/Sheets, Agile, AWS, Bash, C/C++, Computer Networking, Figma, Firebase, Ionic, jQuery, Jupyter, Kotlin, Maven, MongoDB, Natural Language Processing (NLP), Node.js, NumPy, OpenGL, Pandas, PowerPoint/Keynote/Slides, PowerShell, Product Management, Python NLTK, Quickbooks, R, RDBMS, REST APIs
+      description: Java, MySQL, JavaScript, TypeScript, React.js, AngularJS, Linux/Unix, Data Structures & Algorithms, React Native, Git, HTML/CSS, Web Development, Python, Agile, AWS, Bash, C/C++, Computer Networking, Figma, Firebase, Ionic, jQuery, Jupyter, Kotlin, Maven, MongoDB, Redis, Natural Language Processing (NLP), Node.js, NumPy, OpenGL, Pandas, PowerPoint/Keynote/Slides, PowerShell, Product Management, Python NLTK, Quickbooks, R, RDBMS, REST APIs
     - title: Concepts
       description: Network protocols (TCP/IP, DHCP, DNS, etc.), Data Structures, Relational Database, Web Development, Search Engines, Machine Learning, Dynamic Programming, OS
 
@@ -43,7 +43,6 @@
       location: Ontario, CA, USA
       year: 2020-2021
       description:
-        - Automated reconciliation of statements and invoices for efficient accounting processes.
+        - Automated reconciliation of statements and invoices for efficient accounting processes. Improved efficiency for accounts payable by 27%.
         - Implemented a digital time card system and integrated it with the accounting system to streamline payroll processes.
         - Provided deskside support to troubleshoot tech-related issues of varying complexity.
-        - Set up new accounts for employees and deployed office equipment.
