@@ -2,8 +2,8 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Under Construction
-nav: false
+description: 
+nav: true
 nav_order: 3
 ---
 
