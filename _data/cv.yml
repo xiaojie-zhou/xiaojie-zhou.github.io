@@ -40,7 +40,7 @@
   contents:
     - title: Computer Science Grader
       institution: University of California - Los Angeles
-      location: Los Angeles, CA, USA
+      location: Los Angeles, CA
       year: 2024
       description:
         - Evaluated and graded student assignments and exams for the CS 144 course, focusing on web development and programming.
@@ -50,7 +50,7 @@
 
     - title: IT Intern
       institution: Intco Medical Industries Inc.
-      location: Ontario, CA, USA
+      location: Ontario, CA
       year: 2020-2021
       description:
         - Automated reconciliation of statements and invoices for efficient accounting processes. Improved efficiency for accounts payable by 27%.
