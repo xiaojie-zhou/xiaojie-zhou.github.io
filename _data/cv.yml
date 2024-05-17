@@ -38,6 +38,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Computer Science Grader
+      institution: University of California - Los Angeles
+      location: Los Angeles, CA, USA
+      year: 2024
+      description:
+        - Evaluated and graded student assignments and exams for the CS 144 course, focusing on web development and programming.
+        - Recognized by students and faculty for providing exceptional feedback and support.
+        - Collaborated with instructors to develop grading rubrics and ensure consistent assessment standards.
+        - Contributed to maintaining the course's online resources and forums to facilitate student engagement and collaboration.
+
     - title: IT Intern
       institution: Intco Medical Industries Inc.
       location: Ontario, CA, USA
