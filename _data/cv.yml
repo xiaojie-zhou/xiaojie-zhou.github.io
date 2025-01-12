@@ -1,144 +1,108 @@
-#name: Xiaojie Zhou
-#contact:
-#  email: xiaojiezus@gmail.com
-#  linkedin: https://linkedin.com/in/xiaojie-zhou/
-#  phone: +1 (646) 543-2630
-#  location: United States
-#
-#education:
-#  - institution: University of California, Los Angeles (UCLA)
-#    degree: Master of Science in Computer Science
-#    expected_graduation: June 2025
-#    relevant_coursework:
-#      - Cloud Computing
-#      - Internet of Things
-#      - Human-Computer Interaction
-#      - Large-Scale Data Mining
-#      - Computer Systems Architecture
-#      - Software Engineering & Testing
-#      - Big Data Analytics
-#
-#  - institution: University of California, Irvine (UCI)
-#    degree: Bachelor of Science in Computer Science
-#    gpa: 3.71
-#
-#skills:
-#  programming_languages:
-#    - Python
-#    - Java
-#    - TypeScript
-#    - Bash
-#    - C/C++
-#    - HTML/CSS
-#    - SQL
-#    - R
-#    - RDBMS
-#  frameworks_tools:
-#    - Reactjs
-#    - AngularJS
-#    - React Native
-#    - Git
-#    - Nodejs
-#    - MongoDB
-#    - Firebase
-#    - Docker
-#    - Postgres
-#    - Postman
-#    - jQuery
-#    - Jupyter
-#    - LoRa
-#    - REST APIs
-#    - GPT Prompt Engineering
-#  other:
-#    - Web Development
-#    - Data Structures & Algorithms
-#    - SEO
-#    - Agile
-#    - Product Management
-#    - QuickBooks
-#    - Computer Networking
-#    - Computer Architecture
-#  languages:
-#    - Mandarin Chinese (Native)
-#    - English (Professional)
-#
-#experience:
-#  - company: NAYAD
-#    position: Marketing Automation Intern
-#    location: San Marino, CA, USA
-#    period: 06/2024 – 09/2024
-#    responsibilities:
-#      - Developed a crawler to identify potential nano influencers, generating hundreds of leads in minutes.
-#      - Extracted and analyzed Instagram and TikTok follower counts using custom algorithms, increasing productivity by 16%.
-#      - Automated personalized email outreach campaigns, reducing 85% of repetitive tasks.
-#      - Streamlined influencer engagement workflow, doubling response rates in two weeks.
-#
-#  - company: Intco Medical Industries Inc
-#    position: Workflow Automation Intern
-#    location: Ontario, CA, USA
-#    period: 06/2020 – 09/2020
-#    responsibilities:
-#      - Automated reconciliation of thousands of financial statements and invoices to ensure accurate vendor payments.
-#      - Implemented a digital time card system integrated with payroll, improving accuracy and productivity by 9%.
-#      - Managed biweekly software updates across departments, minimizing downtime.
-#      - Migrated historical data across databases for 3 departments.
-#      - Onboarded new employees by setting up user accounts and configuring office equipment.
-#
-#projects:
-#  - title: Context-Free Grammar Converter
-#    role: Developer
-#    organization: UCLA
-#    period: Fall 2024
-#    technologies: Python
-#    details:
-#      - Developed a Python tool to convert regular expressions into context-free grammars (CFGs).
-#      - Implemented unit tests to ensure accurate grammar conversion.
-#      - Automated testing and result logging with a custom evaluation script.
-#      - Conducted extensive validation to ensure consistent grammar output.
-#      - Optimized tool performance through iterative debugging.
-#
-#  - title: LoRa Device Message Management System
-#    role: Full Stack Developer
-#    organization: UCLA
-#    period: Spring 2024
-#    technologies: Vue3, Flask, Docker, PostgreSQL, WiNGstack, Python
-#    details:
-#      - Designed a full-stack system for handling LoRa device messages.
-#      - Built a PostgreSQL database for device and message storage.
-#      - Developed a front-end interface for real-time data display.
-#      - Deployed the system on Raspberry Pi with Docker, keeping usage below 500MB.
-#      - Resolved Python-to-PostgreSQL integration issues.
-#
-#  - title: E-Commerce Full Stack Website
-#    role: Full Stack Developer
-#    organization: UCI
-#    period: Winter 2022
-#    technologies: Java Spring, React, MySQL, React Native, Stripe
-#    details:
-#      - Led backend development of a film purchasing website using Java Spring.
-#      - Designed secure databases with hashed and salted passwords.
-#      - Integrated Stripe for secure payment processing.
-#      - Developed over 20 RESTful APIs for server-client communication.
-#      - Built functional web and mobile interfaces for cross-platform support.
-#
-#  - title: Search Engine Development
-#    role: Search Engine Engineer
-#    organization: UCI
-#    period: Fall 2021
-#    technologies: Java, Data Structures, Algorithms
-#    details:
-#      - Built a custom search engine capable of processing tens of thousands of web pages.
-#      - Created a web crawler with politeness rules and efficient indexing.
-#      - Implemented a tf-idf page ranking algorithm for query processing.
-#      - Managed large index files (8 GB) by offloading and merging data efficiently.
-#
-#  - title: K-12 Teacher Evaluation App
-#    role: Full Stack Developer
-#    organization: Shanghai, China
-#    period: 01/2018 – 06/2018
-#    technologies: Android, MySQL, QR Code Library
-#    details:
-#      - Developed an Android app for K-12 teacher evaluations used by a Shanghai school.
-#      - Integrated QR code scanning for accurate student identity verification.
-#      - Secured student data with encryption and access controls in MySQL.
-#      - Published a related paper in *Digital Communication World* (Sept 2018).
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Xiaojie Zhou
+    - name: Languages
+      value: English (Professional), Mandarin Chinese (Native)
+
+- title: Technical Skills
+  type: time_table
+  contents:
+    - title: Programming Languages
+      description: Python, Java, TypeScript, Bash, C/C++, HTML/CSS, SQL, R, RDBMS
+    - title: Frameworks & Tools
+      description: React.js, AngularJS, React Native, Git, Node.js, MongoDB, Firebase, Docker, PostgreSQL, Postman, jQuery, Jupyter, LoRa, REST APIs, GPT Prompt Engineering
+    - title: Other
+      description: Web Development, Data Structures & Algorithms, SEO, Agile, Product Management, QuickBooks, Computer Networking, Computer Architecture
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Science in Computer Science
+      institution: University of California, Los Angeles (UCLA)
+      year: IP 2025
+      description:
+        - Relevant Coursework: Cloud Computing, Internet of Things, Human-Computer Interaction, Large-Scale Data Mining, Computer Systems Architecture, Software Engineering & Testing, Big Data Analytics
+
+    - title: Bachelor of Science in Computer Science
+      institution: University of California, Irvine (UCI)
+      year: 2023
+      description:
+        - GPA: 3.71/4.00
+        - Dean's Honor List
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Marketing Automation Intern
+      institution: NAYAD
+      location: San Marino, CA, USA
+      year: 2024
+      description:
+        - Developed a crawler to identify potential nano influencers, generating hundreds of leads in minutes.
+        - Extracted and analyzed Instagram and TikTok follower counts using custom algorithms, increasing productivity by 16%.
+        - Automated personalized email outreach campaigns, reducing 85% of repetitive tasks.
+        - Streamlined influencer engagement workflow, doubling response rates in two weeks.
+
+    - title: Workflow Automation Intern
+      institution: Intco Medical Industries Inc.
+      location: Ontario, CA, USA
+      year: 2020
+      description:
+        - Automated reconciliation of thousands of financial statements and invoices to ensure accurate vendor payments.
+        - Implemented a digital time card system integrated with payroll, improving accuracy and productivity by 9%.
+        - Managed biweekly software updates across departments, minimizing downtime.
+        - Migrated historical data across databases for 3 departments.
+        - Onboarded new employees by setting up user accounts and configuring office equipment.
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: Context-Free Grammar Converter
+      institution: University of California, Los Angeles (UCLA)
+      year: Fall 2024
+      description:
+        - Developed a Python-based tool to convert regular expressions into context-free grammars (CFGs).
+        - Implemented unit tests to ensure accurate grammar conversion.
+        - Automated testing and result logging with a custom evaluation script.
+        - Conducted extensive validation to ensure consistent grammar output.
+        - [GitHub Repository](https://github.com/yiwenlong2001/CS230_UCLA_24Fall)
+
+    - title: LoRa Device Message Management System
+      institution: University of California, Los Angeles (UCLA)
+      year: Spring 2024
+      description:
+        - Designed a full-stack system for handling LoRa device messages.
+        - Built a PostgreSQL database for device and message storage.
+        - Developed a front-end interface for real-time data display using Vue3 and Flask.
+        - Deployed the system on Raspberry Pi with Docker, keeping usage below 500MB.
+        - Resolved Python-to-PostgreSQL integration issues.
+
+    - title: E-Commerce Full Stack Website
+      institution: University of California, Irvine (UCI)
+      year: Winter 2022
+      description:
+        - Led backend development of a film purchasing website using Java Spring.
+        - Designed secure databases with hashed and salted passwords.
+        - Integrated Stripe for secure payment processing with 0% failure rate.
+        - Developed over 20 RESTful APIs for server-client communication.
+        - Built functional web and mobile interfaces using React and React Native.
+
+    - title: Search Engine Development
+      institution: University of California, Irvine (UCI)
+      year: Fall 2021
+      description:
+        - Built a custom search engine capable of processing tens of thousands of web pages.
+        - Created a web crawler with politeness rules and efficient indexing.
+        - Implemented a tf-idf page ranking algorithm for query processing.
+        - Managed large index files (8 GB) by offloading and merging data efficiently.
+
+    - title: K-12 Teacher Evaluation App
+      institution: Shanghai, China
+      year: 2018
+      description:
+        - Developed an Android app for K-12 teacher evaluations used by a Shanghai school.
+        - Integrated QR code scanning for accurate student identity verification.
+        - Secured student data with encryption and access controls in MySQL.
+        - Published a related paper in *Digital Communication World* (Sept 2018).
