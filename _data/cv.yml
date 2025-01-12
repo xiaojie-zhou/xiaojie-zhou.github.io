@@ -67,7 +67,7 @@
         - Implemented unit tests to ensure accurate grammar conversion.
         - Automated testing and result logging with a custom evaluation script.
         - Conducted extensive validation to ensure consistent grammar output.
-        - [GitHub Repository](https://github.com/yiwenlong2001/CS230_UCLA_24Fall)
+        - GitHub Repository: https://github.com/yiwenlong2001/CS230_UCLA_24Fall
 
     - title: LoRa Device Message Management System
       institution: University of California, Los Angeles (UCLA)
@@ -96,7 +96,7 @@
         - Built a custom search engine capable of processing tens of thousands of web pages.
         - Created a web crawler with politeness rules and efficient indexing.
         - Implemented a tf-idf page ranking algorithm for query processing.
-        - Managed large index files (8 GB) by offloading and merging data efficiently.
+        - Managed large index files (over 12 GB) by offloading and merging data efficiently.
 
     - title: K-12 Teacher Evaluation App
       institution: Shanghai, China
